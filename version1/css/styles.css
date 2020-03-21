@@ -1,0 +1,13 @@
+body{
+  background-color: #fffcf9;
+  margin-left: 18%;
+  margin-right: 15%;
+  font-family: monospace;
+}
+
+.important{
+  font-weight: bold;
+}
+span.important{
+  color: pink;
+}
