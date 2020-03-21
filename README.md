@@ -18,7 +18,9 @@ Start by drawing your strategy!
 
 Look at the expected result and use a marker to identify the tags, imagen what CSS styles will you be applying to them, remember to reuse styles, don't repeat yourself!
 
-<img src="./strategy.png" height="200" />
+| Strategy 1    | Strategy 2    |
+| ----------    | ------        |
+| <img src="./strategy.png" height="200" /> | <img src="./strategy2.png" height="200" />    |
 
 ## 💡Tips when building your resume:
 
