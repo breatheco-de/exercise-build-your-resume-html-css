@@ -2,11 +2,11 @@
 {
 	"slug" : "build-your-resume",
 	"title" : "Build your resume in HTML/CSS",
-	"description": "",
+	"description": "Practice HTML and CSS by building your Resume.",
 	"status": "published",
-	"duration" : 8,
-	"difficulty": "junior",
+	"duration" : 3,
+	"difficulty": "beginner",
     "solution": "https://github.com/breatheco-de/exercise-build-your-resume/tree/solution",
-	"technologies": ["python", "terminal", "command line", "data-structures", "http.request", "file-hierarch"],
+	"technologies": ["html", "css"],
 	"talents": []
 }

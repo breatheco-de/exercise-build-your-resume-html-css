@@ -8,7 +8,7 @@ These are some examples of resumes you can build:
 
 | Version 1 | Version 2 | Version 3 |
 | --------- | --------  | --------  |
-| <img src="./version1.png" height="170" /> [Click to expand](./version1.png) | <img src="./version2.png" height="170" /> [Click to expand](./version2.png) | <img src="./version3.png" height="170" /> [Click to expand](./version3.png) |
+| <p align="center"><img src="./version1.png" height="170" /></p> [Click to expand](./version1.png) | <p align="center"><img src="./version2.png" height="170" /></p> [Click to expand](./version2.png) | <p align="center"><img src="./version3.png" height="170" /></p> [Click to expand](./version3.png) |
 
 # 📝 Instructions
 
