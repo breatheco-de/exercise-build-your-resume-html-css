@@ -1,6 +1,6 @@
 # Your Resume (CV) in HTML and CSS
 
-![Resume in HTML/CSS Breathecode](./preview.png)
+![Resume in HTML/CSS Breathecode](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/preview.png?raw=true)
 
 You are in your way to be a software developer, you are going to need to update your Resume eventually, hug? 💪😅
 
@@ -8,7 +8,7 @@ These are some examples of resumes you can build:
 
 | Version 1 | Version 2 | Version 3 |
 | --------- | --------  | --------  |
-| <p align="center"><img src="./version1.png" height="170" /></p> [Click to expand](./version1.png) | <p align="center"><img src="./version2.png" height="170" /></p> [Click to expand](./version2.png) | <p align="center"><img src="./version3.png" height="170" /></p> [Click to expand](./version3.png) |
+| <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/version3.png?raw=true) |
 
 # 📝 Instructions
 
@@ -20,7 +20,7 @@ Look at the expected result and use a marker to identify the tags, imagen what C
 
 | Strategy 1    | Strategy 2    |
 | ----------    | ------        |
-| <img src="./strategy.png" height="200" /> | <img src="./strategy2.png" height="200" />    |
+| <img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy.png?raw=true" height="200" /> | <img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy2.png?raw=true" height="200" />    |
 
 ## 💡Tips when building your resume:
 
