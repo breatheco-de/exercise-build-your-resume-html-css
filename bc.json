@@ -3,6 +3,7 @@
 	"slug" : "build-your-resume",
 	"title" : "Build your resume in HTML/CSS",
 	"description": "Practice HTML and CSS by building your Resume.",
+	"preview": "https://github.com/breatheco-de/exercise-build-your-resume/blob/master/preview.png?raw=true",
 	"status": "published",
 	"duration" : 3,
 	"difficulty": "beginner",
