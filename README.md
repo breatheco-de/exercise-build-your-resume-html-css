@@ -20,7 +20,7 @@ Look at the expected result and use a marker to identify the tags, imagen what C
 
 | Strategy 1    | Strategy 2    |
 | ----------    | ------        |
-| ![Strategy 1 Resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy2.png?raw=true) |
+| ![Strategy 1 Resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy2.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/strategy2.png?raw=true) |
 
 ## 💡Tips when building your resume:
 
