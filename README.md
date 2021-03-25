@@ -26,12 +26,13 @@ Look at the expected result and use a marker to identify the tags, imagen what C
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
 
 b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
 ```
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## 💡Tips when building your resume:
 
