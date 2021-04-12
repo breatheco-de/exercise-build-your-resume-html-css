@@ -10,6 +10,18 @@ These are some examples of resumes you can build:
 | --------- | --------  | --------  |
 | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true) |
 
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, but you have two options to start:
+
+a) Open this link in your browser with gitpod(recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+```
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 # 📝 Instructions
 
 The ideal example is **version 3** but you can build version 1 or version 2 first, and later jump into version 3.
@@ -22,17 +34,6 @@ Look at the expected result and use a marker to identify the tags, imagen what C
 | ----------    | ------        |
 | ![Strategy 1 Resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) |
 
-## 🌱  How to start this project
-
-This project comes with the necessary files to start working, but you have two options to start:
-
-a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
-
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
-```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## 💡Tips when building your resume:
 
