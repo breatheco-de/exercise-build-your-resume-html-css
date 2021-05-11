@@ -4,7 +4,7 @@
 
 Te estás convirtiendo en un desarrollador de softwares, eventualmente tendrás que actualizar tu CV ¿No crees? 💪😅
 
-TAquí hay algunos ejemplos de los CV que puedes crear:
+Aquí hay algunos ejemplos de los CV que puedes crear:
 
 | Versión 1 | Versión 2 | Versión 3 |
 | --------- | --------  | --------  |
@@ -43,7 +43,7 @@ Mira el resultado que esperas e identidica las etiquetas o tags, imágenes y que
 
 2. Comienza por definir tu estrategia, escoge las etiquetas o tags primero. Luego empieza a codificar. 
 
-3. Cuando crees tu CSS empieza desde más genérico y general y luego ve a lo más específico, ¡verás como el trabajo disminuye dramáticamente. Por ejemplo:
+3. Cuando crees tu CSS empieza desde más genérico, general y luego ve a lo más específico, ¡verás como el trabajo disminuye dramáticamente. Por ejemplo:
 
     - Puedes darle un estilo a todos tus h1 de una vez para que todos estén en negrita.
     - Puedes aplicarle una fuente a todo el `<body>` del sitio web. 
