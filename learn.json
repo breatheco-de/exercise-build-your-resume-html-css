@@ -9,5 +9,7 @@
 	"difficulty": "beginner",
     "solution": "https://github.com/breatheco-de/exercise-build-your-resume-html-css/tree/solution",
 	"technologies": ["html", "css", "flexbox", "layouts"],
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
