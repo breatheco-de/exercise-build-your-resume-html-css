@@ -1,4 +1,6 @@
+<!--hide-->
 # Tu CV en HTML You CSS
+<!--endhide-->
 
 ![CV en HTML/CSS Breathecode](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/preview.png?raw=true)
 
@@ -12,7 +14,7 @@ Aquí hay algunos ejemplos de los CV que puedes crear:
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
@@ -25,11 +27,11 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 # 📝 Instrucciones
 
-El ejemplo ideal es la **version 3** pero puedes crear la versión 1 o 2 primero, y luego hacer la versión 3.
+El ejemplo ideal es la **version 3**, pero puedes crear la versión 1 o 2 primero, y luego hacer la versión 3.
 
 ¡Comienza por dibujar tu estrategia!
 
-Mira el resultado que esperas e identidica las etiquetas o tags, imágenes y que estilos CSS le aplicarás, recuerda reutilizar estilos !no re repitas!
+¡Mira el resultado que esperas e identifica los tags, imágenes y que estilos CSS le aplicarás, recuerda reutilizar estilos! ¡No repitas!
 
 
 | Estrategia 1    | Estrategia 2    |
@@ -39,13 +41,13 @@ Mira el resultado que esperas e identidica las etiquetas o tags, imágenes y que
 
 ## 💡Tips para crear tu CV:
 
-1. Usa las diferentes etiquetas o tags HMTL disponibles: `<h1>`, `<h2>`, `<h3>`, `<p>` (párrafo), `<ul>` o `<ol>` (viñetas o listas ordenadas), `<divs>`.
+1. Usa los diferentes tags HMTL disponibles: `<h1>`, `<h2>`, `<h3>`, `<p>` (párrafo), `<ul>` o `<ol>` (viñetas o listas ordenadas), `<divs>`.
 
-2. Comienza por definir tu estrategia, escoge las etiquetas o tags primero. Luego empieza a codificar. 
+2. Comienza por definir tu estrategia, escoge los tags primero. Luego empieza a codificar. 
 
-3. Cuando crees tu CSS empieza desde más genérico, general y luego ve a lo más específico, ¡verás como el trabajo disminuye dramáticamente. Por ejemplo:
+3. Cuando crees tu CSS empieza desde más genérico, general y luego ve a lo más específico, ¡verás como el trabajo disminuye dramáticamente! Por ejemplo:
 
     - Puedes darle un estilo a todos tus h1 de una vez para que todos estén en negrita.
     - Puedes aplicarle una fuente a todo el `<body>` del sitio web. 
-    - Tu puedes escoger los colores para todo y luego sólo especificar diferentes colores para ciertas excepciones.
+    - Tu puedes escoger los colores para todo y luego solo especificar diferentes colores para ciertas excepciones.
     

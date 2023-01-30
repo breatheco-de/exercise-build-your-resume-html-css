@@ -1,4 +1,6 @@
+<!--hide-->
 # Your Resume (CV) in HTML and CSS
+<!--endhide-->
 
 ![Resume in HTML/CSS Breathecode](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/preview.png?raw=true)
 
@@ -14,7 +16,7 @@ These are some examples of resumes you can build:
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Open this link in your browser with gitpod(recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+a) Open this link in your browser with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
 
 b) You can clone this repository on your local computer:
 ```sh
@@ -24,24 +26,24 @@ $ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.
 
 # 📝 Instructions
 
-The ideal example is **version 3** but you can build version 1 or version 2 first, and later jump into version 3.
+The ideal example is **version 3**, but you can build version 1 or version 2 first, and later jump into version 3.
 
 Start by drawing your strategy!
 
-Look at the expected result and use a marker to identify the tags, imagen what CSS styles will you be applying to them, remember to reuse styles, don't repeat yourself!
+Look at the expected result and use a marker to identify the tags, imagine what CSS styles will you be applying to them, remember to reuse styles, and don't repeat yourself!
 
 | Strategy 1    | Strategy 2    |
 | ----------    | ------        |
 | ![Strategy 1 Resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy.png?raw=true) | ![Strategy 2 resume](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/strategy2.png?raw=true) |
 
 
-## 💡Tips when building your resume:
+## 💡 Tips when building your resume:
 
 1. Rely heavily on the different HTML tags available: `<h1>`, `<h2>`, `<h3>`, `<p>` (paragraph), `<ul>` or `<ol>` (bullets or ordered list), `<divs>`.
 
 2. Start by defining your strategy, pick the tags first. Then start coding.
 
-3. When building your CSS start from the most generic and general to the most specific, it will decrease the amount of work dramatically. For example: 
+3. When building your CSS, start from the most generic and general to the most specific, it will decrease the amount of work dramatically. For example: 
     - You can apply a style to all of your h1 at once to make them stronger.
     - You can apply the font family to the entire website `<body>`.
     - You can pick the colors for everything and then only specify different colors for the few exceptions.
