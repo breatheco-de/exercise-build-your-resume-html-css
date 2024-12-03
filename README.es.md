@@ -10,6 +10,8 @@ Aquí hay algunos ejemplos de los CV que puedes crear:
 | --------- | --------  | --------  |
 | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true) |
 
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  Cómo iniciar este proyecto
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
@@ -22,6 +24,8 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 # 📝 Instrucciones
 
