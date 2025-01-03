@@ -1,4 +1,6 @@
+<!-- hide -->
 # Your Resume (CV) in HTML and CSS
+<!-- endhide -->
 
 ![Resume in HTML/CSS Breathecode](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/preview.png?raw=true)
 
@@ -14,15 +16,17 @@ These are some examples of resumes you can build:
     
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+Do not clone this repository because we will use a different template.
 
-a) Open this link in your browser with gitpod(recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+We recommend opening the `html boilerplate` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone the repository from [GitHub](https://4geeks.com/how-to/github-clone-repository) to your local computer using the `git clone` command.
 
-b) You can clone this repository on your local computer:
+This is the repository you need to open or clone:
+
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+$ git clone https://github.com/4GeeksAcademy/html-hello
 ```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+💡 Important: Remember to update the project's `remote` with your repository's URL using `git remote set-url origin <your new url>`, and then save your code in your new repository using `add`, `commit`, and `push`.
 
 </onlyfor>
 

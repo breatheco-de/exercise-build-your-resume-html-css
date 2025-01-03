@@ -6,6 +6,7 @@
 	"preview": "https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/preview.png?raw=true",
 	"status": "published",
 	"duration" : 3,
+	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
     "solution": "https://github.com/breatheco-de/exercise-build-your-resume-html-css/tree/solution",
 	"technologies": ["html", "css", "flexbox", "layouts"],
