@@ -1,0 +1,201 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #2b2b2b;
+    color: rgb(182, 182, 182);
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+h1, h2{
+    color: #AC8EFA;
+}
+h2{
+    font-size: 30px;
+}
+h3,h4{
+    color: white;
+}
+strong{
+    color:#AC8EFA;
+}
+.cabecera div, .contenedor div, .fin div{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.cabecera {
+    width: 100%;
+    background-color: #111;
+    display: flex;
+}
+#presentacion, #info {
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+}
+#presentacion{
+    text-align: left;
+}
+#info{
+    text-align: right;
+    color: white;
+}
+#info a{
+    text-decoration: none;
+    color: white;
+}
+#info ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+#info ul li {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#info ul li i {
+    margin-left: 10px;
+    color: #AC8EFA;
+    font-size: 20px;
+}
+
+.contenedor {
+    display: flex;
+    width: 100%;
+}
+.izq, .der {
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #111;
+}
+.izq div h2 i, .der div h2 i {
+    margin-right: 12px;
+    color: #AC8EFA;
+    font-size: 30px;
+}
+.izq ul{
+    list-style: none;
+    padding-left: 0;
+    position: relative;
+    margin-left: 70px;
+}
+.izq ul li{
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+  }
+.izq ul li::before{
+    content: '';
+    position: absolute;
+    left: -2px;
+    top: 50%;
+    transform: translateY(-40%);
+    width: 2px;
+    height: 90%;
+    background-color: #686868;
+  }
+
+.der ul{
+    list-style: none;
+    padding-left: 0px;
+    margin: 20px;
+    margin-left: 70px;
+    position: relative;
+    border-left: 3px solid #8d8d8d;
+
+}
+.der ul li{
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+  }
+
+.fecha {
+    position: absolute;
+    left: -90px;
+    top: 0%;
+    font-size: 15px;
+    color: #c9c9c9;
+    width: 70px;
+    text-align: center;
+}
+
+.izq .icono {
+    position: absolute;
+    left: -16px;
+    top:-7px;
+    font-size: 30px;
+    color:#AC8EFA;
+  }
+  .der .icono {
+    position: absolute;
+    left: -7.5px;
+    top:4px;
+    font-size: 12px;
+    color:#AC8EFA;
+  }
+.izq ul li h5 i, .der ul li h5 i{
+    margin-left: 0px;
+    margin-right: 10px;
+    color: #AC8EFA;
+    font-size: 15px;
+}
+
+
+.izq h3, .der h3{
+    font-weight: 900;
+}
+#skills button{
+    background-color: #ac8efa;
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 8px;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 550;
+    margin: 10px;
+}
+
+.fin {
+    width: 100%;
+    background-color: #111;
+    display: flex;
+    align-items: center;
+}
+.izqF, .derF{
+    width: 50%;
+    box-sizing: border-box;
+}
+.izqF{
+    text-align: left;
+    padding-left: 40px;
+}
+.derF{
+    text-align: right;
+}
+.fin a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+.fin a i {
+    margin-left: 10px;
+    color: #AC8EFA;
+    font-size: 20px;
+}
+.fin h1{
+    padding-left: 20px;
+}
