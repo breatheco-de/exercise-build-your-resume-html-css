@@ -12,7 +12,7 @@ These are some examples of resumes you can build:
 | --------- | --------  | --------  |
 | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true) |
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  How to start this project
 
@@ -28,7 +28,7 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 💡 Important: Remember to update the project's `remote` with your repository's URL using `git remote set-url origin <your new url>`, and then save your code in your new repository using `add`, `commit`, and `push`.
 
-</onlyfor>
+</how-to-start>
 
 # 📝 Instructions
 
