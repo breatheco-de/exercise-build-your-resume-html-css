@@ -1,8 +1,14 @@
 
 {
 	"slug" : "build-your-resume-html-css",
-	"title" : "Build your resume in HTML/CSS",
-	"description": "Practice HTML and CSS by building your Resume.",
+	"title" : {
+		"us":"Build your resume in HTML/CSS",
+		"es":"Crea tu currículum en HTML/CSS"
+	},
+	"description" : {
+		"es":"Crea tu currículum personal (CV) utilizando HTML y CSS. Desarróllalo desde cero, eligiendo entre diferentes versiones de diseño. Comienza planificando tu estrategia, utilizando etiquetas HTML como <h1>, <p> y <ul>, y aplicando estilos CSS reutilizables. Ideal para practicar habilidades de diseño web y maquetación.",
+		"us":"Create your personal resume (CV) using HTML and CSS. Build it from scratch, choosing from different layout versions. Start by planning your strategy, using HTML tags like <h1>, <p>, and <ul>, and applying reusable CSS styles. Perfect for practicing web design and layout skills."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/preview.png?raw=true",
 	"status": "published",
 	"duration" : 3,
@@ -12,5 +18,8 @@
 	"technologies": ["html", "css", "flexbox", "layouts"],
 	"talents": [],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=171"
+	  }
 }
