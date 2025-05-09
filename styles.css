@@ -1,4 +1,3 @@
-
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +5,8 @@
 
 body {
   font-family: 'Trebuchet MS', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 a {
@@ -22,7 +23,7 @@ h1 {
   display: inline;
 }
 
-h3 {
+h2, h3 {
   font-size: 20pt;
   text-align: center;
 }
@@ -51,13 +52,31 @@ li p {
   margin-bottom: 10px;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #5a5a5d;
+  font-size: 17.5pt;
+  padding-left: 20px;
+  padding-top: 20px;
+  text-align: left;
+  color: white;
+  height: auto; 
+}
 
-
-
+section {
+  background-color: #8b8d92;
+  font-size: 8pt;
+  color: white;
+  padding: 20px;
+  text-align: left;
+  height: auto; 
+  width: 95.8%;
+}
 
 .container {
   width: 50%;
-  height: 1100px;
   margin: 0 auto;
   border: 1px solid black;
 }
@@ -138,38 +157,96 @@ li p {
   margin-right: 1px;
 }
 
-
-
-
-header {
-  display: block;
-  height: 150px;
-  width: auto;
-  background-color: #5a5a5d;
-  font-size: 17.5pt;
-  padding-left: 239pt;
-  padding-top: 20pt;
-  text-align: left;
-  color: white;
-}
-
-section {
-  background-color: #8b8d92;
-  width: auto;
-  height: 70px;
-  font-size: 8pt;
-  padding-left: 239pt;
-  padding-right: 50pt;
-  padding-top: 20pt;
-  text-align: left;
-  color: white;
-}
-
-.contact {
+button {
   display: flex;
-  flex-direction: column;
+  justify-content: flex-end;
+  cursor: pointer;
 }
 
+.icono-circular {
+  background-color: #2e2328;
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+  font-size: 24px;
+  margin-right: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Modo oscuro */
+.dark-mode {
+  background: #121212;
+  color: white;
+}
+
+/* Media Queries para hacerlo responsive */
+
+/* Cambios para pantallas más pequeñas */
+@media (max-width: 768px) {
+
+  header {
+    padding-left: 15px; 
+    padding-top: 15px;
+    font-size: 14pt; 
+    text-align: center; 
+  }
+
+  /* Para el section */
+  section {
+    padding-left: 10px; 
+    padding-right: 10px; 
+    font-size: 12pt;
+    text-align: center; 
+  }
+
+
+  .container {
+    width: 100%; 
+    border: none; 
+  }
+
+  .container1 {
+    flex-direction: column; 
+    padding-left: 10px; 
+  }
+
+  .container2 {
+    width: 100%; 
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  .container3 {
+    padding-left: 10px;
+  }
+
+  h1 {
+    font-size: 32pt;
+  }
+
+  h2 {
+    font-size: 20pt; 
+  }
+}
+
+@media (max-width: 480px) {
+  /* Para dispositivos muy pequeños */
+  header {
+    font-size: 12pt;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  h1, h2 {
+    font-size: 28pt;
+  }
+}
+
+
+
+/* Barra de progreso */
 .progress-bar {
   display: flex;
   align-items: center;
@@ -197,25 +274,13 @@ section {
   background-color: #e0c1a3;
 }
 
-.icono-circular {
-  background-color: #2e2328;
-  color: white;
-  border-radius: 50%;
-  padding: 10px;
-  font-size: 24px;
-  margin-right: 10px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-.dark-mode {
-  background: #121212;
-  color: white;
-}
+@media (max-width: 768px) {
+  .progress-bar {
+    flex-direction: column; 
+  }
 
-button {
-  display: flex;
-  margin-left:520px;
-  justify-content: flex-end;
-  cursor: pointer;
+  .bar {
+    max-width: none; 
+    width: 100%;
+  }
 }
