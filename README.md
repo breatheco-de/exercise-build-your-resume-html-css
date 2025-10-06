@@ -10,17 +10,21 @@ These are some examples of resumes you can build:
 | --------- | --------  | --------  |
 | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true) |
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+Do not clone this repository because we are going to be using a different template.
 
-a) Open this link in your browser with gitpod(recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it to your local computer using the `git clone` command.
 
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+This is the repository you need to open:
+
+```text
+https://github.com/4GeeksAcademy/html-hello
 ```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+**👉 Please follow these steps** on [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
+</onlyfor>
 
 # 📝 Instructions
 
