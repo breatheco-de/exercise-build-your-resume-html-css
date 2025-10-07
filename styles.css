@@ -1,0 +1,286 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #debfb0;
+}
+
+h1 {
+  font-size: 42pt;
+  display: inline;
+}
+
+h2, h3 {
+  font-size: 20pt;
+  text-align: center;
+}
+
+h5 {
+  color: #4d573b;
+  font-size: 15pt;
+}
+
+p strong {
+  color: #debfb0;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li h5 {
+  margin: 0;
+}
+
+li p {
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #5a5a5d;
+  font-size: 17.5pt;
+  padding-left: 20px;
+  padding-top: 20px;
+  text-align: left;
+  color: white;
+  height: auto; 
+}
+
+section {
+  background-color: #8b8d92;
+  font-size: 8pt;
+  color: white;
+  padding: 20px;
+  text-align: left;
+  height: auto; 
+  width: 95.8%;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.container1 {
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 250px;
+  height: 747px;
+  text-align: left;
+  padding-left: 20pt;
+  padding-top: 60pt;
+  justify-content: space-around;
+  background-color: #3d2f36;
+}
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: space-around;
+  padding-left: 50pt;
+  margin-top: 30px;
+}
+
+.container2 h3 {
+  color: white;
+  text-align: left;
+  position: relative;
+  text-decoration: none;
+}
+
+.container2 h3::after {
+  content: '';
+  position: absolute;
+  left: 55px;
+  right: 30px;
+  bottom: -2mm;
+  height: 3px;
+  background-color: #5a5a5d;
+}
+
+.container2 p {
+  color: white;
+  font-size: 10pt;
+}
+
+.container3 h2 {
+  font-size: 30pt;
+  position: relative;
+  text-decoration: none;
+}
+
+.container3 h2::after {
+  content: '';
+  position: absolute;
+  left: 55px;
+  right: 0px;
+  bottom: -4mm;
+  height: 4px;
+  background-color: #5a5a5d;
+}
+
+.container3 p {
+  color: #5a5a5d;
+  font-size: 10pt;
+}
+
+.container3 p::before {
+  content: "\2022 ";
+  color: #4d573b;
+  font-size: 10px;
+  margin-right: 1px;
+}
+
+button {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.icono-circular {
+  background-color: #2e2328;
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+  font-size: 24px;
+  margin-right: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Modo oscuro */
+.dark-mode {
+  background: #121212;
+  color: white;
+}
+
+/* Media Queries para hacerlo responsive */
+
+/* Cambios para pantallas más pequeñas */
+@media (max-width: 768px) {
+
+  header {
+    padding-left: 15px; 
+    padding-top: 15px;
+    font-size: 14pt; 
+    text-align: center; 
+  }
+
+  /* Para el section */
+  section {
+    padding-left: 10px; 
+    padding-right: 10px; 
+    font-size: 12pt;
+    text-align: center; 
+  }
+
+
+  .container {
+    width: 100%; 
+    border: none; 
+  }
+
+  .container1 {
+    flex-direction: column; 
+    padding-left: 10px; 
+  }
+
+  .container2 {
+    width: 100%; 
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  .container3 {
+    padding-left: 10px;
+  }
+
+  h1 {
+    font-size: 32pt;
+  }
+
+  h2 {
+    font-size: 20pt; 
+  }
+}
+
+@media (max-width: 480px) {
+  /* Para dispositivos muy pequeños */
+  header {
+    font-size: 12pt;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  h1, h2 {
+    font-size: 28pt;
+  }
+}
+
+
+
+/* Barra de progreso */
+.progress-bar {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 8px;
+  white-space: nowrap;
+}
+
+.percentage {
+  min-width: 35px;
+  text-align: left;
+}
+
+.bar {
+  flex-grow: 1;
+  max-width: 120px;
+  height: 10px;
+  background-color: #665454;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  background-color: #e0c1a3;
+}
+
+@media (max-width: 768px) {
+  .progress-bar {
+    flex-direction: column; 
+  }
+
+  .bar {
+    max-width: none; 
+    width: 100%;
+  }
+}
