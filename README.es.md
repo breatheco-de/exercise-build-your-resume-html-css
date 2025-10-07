@@ -10,19 +10,21 @@ Aquí hay algunos ejemplos de los CV que puedes crear:
 | --------- | --------  | --------  |
 | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version1.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version2.png?raw=true) | <p align="center"><img src="https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true" height="170" /></p> [Click to expand](https://github.com/breatheco-de/exercise-build-your-resume-html-css/blob/master/.learn/assets/version3.png?raw=true) |
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 ¿Cómo iniciar este proyecto?
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
+No abras este repositorio, utilizaremos otro *template* para empezar a programar.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+Recomendamos que abras el repositorio `html template` utilizando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+Este es el repositorio que debes abrir:
+
+```text
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
+</onlyfor>
 # 📝 Instrucciones
 
 El ejemplo ideal es la **version 3** pero puedes crear la versión 1 o 2 primero, y luego hacer la versión 3.
